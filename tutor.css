@@ -1,0 +1,136 @@
+*{
+    /* margin:0px; */
+    padding: 0px;
+}
+.body{
+    background-color: black;
+}
+
+.nav{
+    margin-top:80px;
+    background-color:#003049;
+    height: 6vh;
+    width:45vw;
+    border-radius: 50vw;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    /* text-decoration: underline whitesmoke; */
+    text-align: left;
+    display: flex;
+    height: 200px;
+    align-items: center;
+    box-shadow: -8px 0px 15px rgb(235, 93, 42) ;
+    
+  
+    
+    
+}
+.nav-hdings{
+    
+    margin:0px 0px 0px 0px;
+    display: inline;
+    line-height: 3;
+    padding-left:50px ;
+    color: #d62828;
+    font-weight:bold;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.nav-hdings:hover{
+    transition: 1s;
+    color:#eae2b7;
+    display:flex;
+    flex-basis: 20px;
+    cursor: pointer;
+    text-decoration: underline rgb(171, 171, 171);
+}
+.content{
+    margin-top: 20px;
+}
+.bgimg1{
+    margin-right:10px;
+    padding-bottom: 50px;
+    background-image: url(c1.jpg);
+    height: 20vh;
+    width: 20vw;
+    display:inline-block;
+    background-size:cover;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+    
+
+    
+
+}
+.bgimg2{
+    margin-right:10px;
+    padding-bottom: 50px;
+    background-image: url(art.jpg);
+    height: 50vh;
+    width: 50vw;
+    display:inline-block;
+    background-size:cover;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+
+
+    
+
+}
+.bgimg3{
+    margin-right:10px;
+    padding-bottom: 50px;
+    background-image: url(gaming.jpg);
+    height: 30vh;
+    width: 30vw;
+    display:inline-block;
+    background-size:cover;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+
+
+    
+
+}
+.bgimg4{
+    margin-top: 10px;
+    padding-bottom: 50px;
+    background-image: url(mountains.jpg);
+    height: 30vh;
+    width: 30vw;
+    display:inline-block;
+    background-size:cover;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+
+    
+
+}
+.cname1{
+    
+    background-color: #023047;
+    padding-right: 0px;
+    font-weight: bold;
+    font: size 20px;
+}
+.cname2{
+    
+    background-color: #0a9396;
+    padding-right: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    font: size 20px;
+}
+.cname3{
+    
+    background-color: #e9d8a6;
+    padding-right: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    font: size 20px;
+}
